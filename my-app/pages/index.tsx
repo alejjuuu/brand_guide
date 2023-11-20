@@ -18,7 +18,7 @@ export default function Home() {
       <Tabs />
       <Tabs2 />
 
-      {/* Your other components and content*/}
+      {/* Your other components and content+*/}
     </div>
   );
 }
