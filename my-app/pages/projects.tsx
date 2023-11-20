@@ -4,7 +4,7 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Tabs2";
 import Project from "../components/All_Projects";
-import ProjectSpecs from "@/brand_guide/components/Tabs1";
+//import ProjectSpecs from "@/brand_guide/components/Tabs1";
 
 // Import any other components you need for this page.
 
